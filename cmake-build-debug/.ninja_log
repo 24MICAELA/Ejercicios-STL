@@ -1,0 +1,8 @@
+# ninja log v6
+48	531	7553267902034916	CMakeFiles/Ejercicios_STL.dir/Matemáticas/Matematicas.cpp.obj	ed15c403ac631f3d
+7	545	7553267901645231	CMakeFiles/Ejercicios_STL.dir/Geometría/Circulo.cpp.obj	4359e1b3191f6546
+31	559	7553267901853964	CMakeFiles/Ejercicios_STL.dir/Geometría/Triangulo.cpp.obj	546f1078940ed64e
+92	2554	7553267902467262	CMakeFiles/Ejercicios_STL.dir/STL/STL.cpp.obj	b609857705c9d4b4
+32	214	7553271572991880	CMakeFiles/Ejercicios_STL.dir/Ciencia/Fisica.cpp.obj	eca57544b9e7f06e
+16	1297	7553271572831710	CMakeFiles/Ejercicios_STL.dir/main.cpp.obj	717ccef9b448c95b
+1298	2217	7553271585645023	Ejercicios_STL.exe	1cca88274e64d489

@@ -1,16 +1,13 @@
-//
-// Created by Micae on 08/12/2024.
-//
-
 #ifndef STL_H
 #define STL_H
 
+#include <vector>
+#include <map>
+#include <set>
+#include <string>
 
-
-class STL {
-
-};
-
-
+void vectorOperations();
+void mapOperations();
+void setOperations();
 
 #endif //STL_H

@@ -9,8 +9,7 @@ include_directories(Matemáticas)
 include_directories(STL)
 
 add_executable(Ejercicios_STL
-    Ciencia/Ciencia.cpp
-    Ciencia/Ciencia.h
+        Ciencia/Ciencia.h
     Geometría/Circulo.cpp
     Geometría/Geometria.h
     Geometría/Triangulo.cpp
@@ -18,4 +17,5 @@ add_executable(Ejercicios_STL
     Matemáticas/Matematicas.h
     STL/STL.cpp
     STL/STL.h
-    main.cpp)
+    main.cpp
+        Ciencia/Fisica.cpp)

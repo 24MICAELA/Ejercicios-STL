@@ -1,16 +1,11 @@
-//
-// Created by Micae on 08/12/2024.
-//
-
 #ifndef CIENCIA_H
 #define CIENCIA_H
 
+namespace Ciencia {
+    namespace Fisica {
+        const double c = 299792458; // m/s
+        double calcularEnergia(double masa);
+    }
+}
 
-
-class Ciencia {
-
-};
-
-
-
-#endif //CIENCIA_H
+#endif // CIENCIA_H
